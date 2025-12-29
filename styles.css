@@ -189,3 +189,23 @@ justify-content: space-between;
 .header-container-about{
     margin-top: 8px;
 }
+
+.about-main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.para-main{
+    font-size: 33px;
+    line-height: 70px;
+    padding-left: 50px;
+    max-width: 90vw;
+        text-align: justify;
+
+}
+
+
+
