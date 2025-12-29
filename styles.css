@@ -153,7 +153,7 @@ justify-content: space-between;
 .body{
     margin-top: none;
     width: 97vw;
-    height: 100vh;
+    height: 97vh;
     background-image: url(./img/Screenshot\ 2025-12-25\ at\ 21.46.34.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -203,9 +203,57 @@ justify-content: space-between;
     line-height: 70px;
     padding-left: 50px;
     max-width: 90vw;
-        text-align: justify;
+    text-align: justify;
+}
+
+
+.body-contact{
+ background-color: #d9d9d9;
+ position: relative
+}
+
+
+.header-container-about-main{
+    padding-right: 35px;
+}
+
+
+.website-name-contact:hover{
+color: #cfff0e;
 
 }
 
+.website-name-contact2{ 
+padding-left: 70px;
+}
+
+.contact-item{
+    font-size: 20px;
+    position: absolute;
+}
+
+.contact-item-color{
+    color: #cfff0e;
+}
+
+.contact-item1{
+     top: 170px;
+  left: 310px;
+}
+
+
+.contact-item2{
+     top: 300px;
+  left: 907px;
+}
+
+.contact-item3{
+     top: 530px;
+  left: 478px;
+}
+
+body {
+  background: #e5e5e5;
+}
 
 
