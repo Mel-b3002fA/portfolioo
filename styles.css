@@ -54,7 +54,8 @@
 justify-content: space-between;
  flex-direction: column;
  flex-wrap: wrap;
-  position: absolute
+  position: absolute;
+/*   box-shadow: rgba(0, 0, 0, 0.404) 3px 2px 3px ; */
 }
 
 .card:hover{
@@ -233,7 +234,7 @@ padding-left: 70px;
 }
 
 .contact-item-color{
-    color: #cfff0e;
+    color: rgb(207, 255, 14);
 }
 
 .contact-item1{
@@ -253,7 +254,43 @@ padding-left: 70px;
 }
 
 body {
-  background: #e5e5e5;
+  background: rgb(229, 229, 229);
 }
 
 
+.ethics-body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.ethics-main{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+}
+
+.ethics-img{
+    margin-left: 70px;
+     width:100%;
+    height:100%;
+}
+
+.ethics-img-div{
+    width: 89.2vw;
+    margin-left: 73px;
+    height: 530px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    background-image: url(./img/WhatsApp\ Image\ 2026-02-15\ at\ 17.12.50.jpeg);
+}
+
+.ethics-main-text{
+    max-width: 230px;
+    height: 150px;
+    background-color: #cfff0e;
+    position: relative;
+    top: 350px;
+    left: 864px;
+
+
+}
