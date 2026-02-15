@@ -257,6 +257,10 @@ body {
   background: rgb(229, 229, 229);
 }
 
+.body-about{
+    overflow-x: hidden;
+
+}
 
 .ethics-body{
     overflow-x: hidden;
@@ -267,6 +271,7 @@ body {
     width: 100vw;
     height: 100vh;
     position: absolute;
+    margin-top: 300px;
 }
 
 .ethics-img{
@@ -278,7 +283,7 @@ body {
 .ethics-img-div{
     width: 89.2vw;
     margin-left: 73px;
-    height: 530px;
+    height: 500px;
     overflow-y: hidden;
     overflow-x: hidden;
     background-image: url(./img/WhatsApp\ Image\ 2026-02-15\ at\ 17.12.50.jpeg);
@@ -289,7 +294,7 @@ body {
     height: 150px;
     background-color: #cfff0e;
     position: relative;
-    top: 350px;
+    top: 310px;
     left: 864px;
 
 
