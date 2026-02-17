@@ -283,7 +283,7 @@ body {
 .ethics-img-div{
     width: 89.2vw;
     margin-left: 73px;
-    height: 500px;
+    height: 280px;
     overflow-y: hidden;
     overflow-x: hidden;
     background-image: url(./img/WhatsApp\ Image\ 2026-02-15\ at\ 17.12.50.jpeg);
@@ -294,8 +294,9 @@ body {
     height: 150px;
     background-color: #cfff0e;
     position: relative;
-    top: 310px;
-    left: 864px;
+    top: -50px;
+    left: 780px;
+
 
 
 }
