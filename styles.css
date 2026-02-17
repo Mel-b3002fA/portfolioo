@@ -161,7 +161,7 @@ justify-content: space-between;
     margin-top: none;
     width: 97vw;
     height: 97vh;
-    background-image: url(./img/Screenshot\ 2025-12-25\ at\ 21.46.34.png);
+    /* background-image: url(./img/Screenshot\ 2025-12-25\ at\ 21.46.34.png); */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -177,7 +177,7 @@ justify-content: space-between;
 
 .website-name-about{
     padding-left: 78px;
-    color: black;
+    color: #cfff0e;
 }
 .about-main{
     width: 97vw;
@@ -202,6 +202,7 @@ justify-content: space-between;
 
 .about-main{
     width: 100%;
+    margin-top: 100vh;
     display: flex;
     justify-content: center;
 }
@@ -209,11 +210,11 @@ justify-content: space-between;
 
 
 .para-main{
-    font-size: 33px;
-    line-height: 70px;
-    padding-left: 50px;
-    max-width: 90vw;
+    font-size: 19px;
     text-align: justify;
+    max-width: 230px;
+    height: fit-content;
+    background-color: #cfff0e;
 }
 
 
@@ -280,7 +281,7 @@ body {
     width: 100vw;
     height: 100vh;
     position: absolute;
-    margin-top: 300px;
+    margin-top: 100px;
 }
 
 .ethics-img{
@@ -299,13 +300,10 @@ body {
 }
 
 .ethics-main-text{
-    max-width: 230px;
-    height: 150px;
+    max-width: 300px;
+    height: fit-content;
     background-color: #cfff0e;
     position: relative;
     top: -50px;
-    left: 780px;
-
-
-
+    left: 850px;
 }
