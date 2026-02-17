@@ -111,8 +111,14 @@ justify-content: space-between;
 .card5{
      top: 310px;
   left: 699px;
+  margin-top: 0 auto;
 }
 
+.card5-link{
+    margin-top: 0px;
+    padding-top: 0px;
+    width: 0px;
+}
 .card6{
      top: 120px;
   left: 540px;
